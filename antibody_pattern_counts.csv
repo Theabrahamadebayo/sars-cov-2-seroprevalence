@@ -1,0 +1,31 @@
+source_table,location,grouping,group,antibody_pattern,participants
+Table 3,Owo,Sex,Male,SRBD only,2
+Table 3,Owo,Sex,Male,N only,1
+Table 3,Owo,Sex,Male,Both,6
+Table 3,Asubiaro,Sex,Male,SRBD only,1
+Table 3,Asubiaro,Sex,Male,N only,1
+Table 3,Asubiaro,Sex,Male,Both,9
+Table 3,Owo,Sex,Female,SRBD only,12
+Table 3,Owo,Sex,Female,N only,1
+Table 3,Owo,Sex,Female,Both,13
+Table 3,Asubiaro,Sex,Female,SRBD only,4
+Table 3,Asubiaro,Sex,Female,N only,2
+Table 3,Asubiaro,Sex,Female,Both,16
+Table 4,Owo,Age group,Young (18-29),SRBD only,4
+Table 4,Owo,Age group,Young (18-29),N only,0
+Table 4,Owo,Age group,Young (18-29),Both,2
+Table 4,Asubiaro,Age group,Young (18-29),SRBD only,0
+Table 4,Asubiaro,Age group,Young (18-29),N only,1
+Table 4,Asubiaro,Age group,Young (18-29),Both,1
+Table 4,Owo,Age group,Middle-aged (30-50),SRBD only,10
+Table 4,Owo,Age group,Middle-aged (30-50),N only,1
+Table 4,Owo,Age group,Middle-aged (30-50),Both,10
+Table 4,Asubiaro,Age group,Middle-aged (30-50),SRBD only,5
+Table 4,Asubiaro,Age group,Middle-aged (30-50),N only,2
+Table 4,Asubiaro,Age group,Middle-aged (30-50),Both,18
+Table 4,Owo,Age group,Older (over 50),SRBD only,0
+Table 4,Owo,Age group,Older (over 50),N only,1
+Table 4,Owo,Age group,Older (over 50),Both,7
+Table 4,Asubiaro,Age group,Older (over 50),SRBD only,0
+Table 4,Asubiaro,Age group,Older (over 50),N only,0
+Table 4,Asubiaro,Age group,Older (over 50),Both,6

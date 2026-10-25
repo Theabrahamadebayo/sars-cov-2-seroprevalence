@@ -1,0 +1,17 @@
+outcome,comparison,group_1,group_2,odds_ratio,or_95ci,fisher_p
+Overall pattern,SRBD only,19/68 (27.9%),,,95% CI 18.7 to 39.6,
+Overall pattern,N only,5/68 (7.4%),,,95% CI 3.2 to 16.1,
+Overall pattern,Both,44/68 (64.7%),,,95% CI 52.8 to 75.0,
+Overall pattern,Any N antibodies (past infection signal),49/68 (72.1%),,,95% CI 60.4 to 81.3,
+Overall pattern,Any SRBD antibodies,63/68 (92.6%),,,95% CI 83.9 to 96.8,
+Both antibodies,Asubiaro vs Owo,Asubiaro: 25/33 (75.8%),Owo: 19/35 (54.3%),2.59,0.84 to 8.60,0.0793
+Any N antibodies,Asubiaro vs Owo,Asubiaro: 28/33 (84.8%),Owo: 21/35 (60.0%),3.66,1.04 to 15.12,0.0309
+Anti-spike only,Asubiaro vs Owo,Asubiaro: 5/33 (15.2%),Owo: 14/35 (40.0%),0.27,0.07 to 0.96,0.0309
+Both antibodies,Male vs Female,Male: 15/20 (75.0%),Female: 29/48 (60.4%),1.95,0.55 to 8.01,0.2817
+Any N antibodies,Male vs Female,Male: 17/20 (85.0%),Female: 32/48 (66.7%),2.79,0.66 to 17.05,0.1497
+Anti-spike only,Male vs Female,Male: 3/20 (15.0%),Female: 16/48 (33.3%),0.36,0.06 to 1.52,0.1497
+Any N antibodies by age,Young (18-29),4/8 (50.0%),,,95% CI 21.5 to 78.5,
+Any N antibodies by age,Middle-aged (30-50),31/46 (67.4%),,,95% CI 53.0 to 79.1,
+Any N antibodies by age,Older (over 50),14/14 (100.0%),,,95% CI 78.5 to 100.0,
+Any N antibodies,Older vs younger groups combined,Older: 14/14 (100.0%),Younger groups: 35/54 (64.8%),inf,1.56 to inf,0.0071
+Any N antibodies by age,Linear trend across age groups,z = 2.73,,,,0.0063
